@@ -1,7 +1,6 @@
-Python Notebooks:
+# Python Notebooks:
 
 Sepsis Data Analysis.ipynb
-
 
 Sepsis Preprocessing - Undersampling and Padding.ipynb
 
