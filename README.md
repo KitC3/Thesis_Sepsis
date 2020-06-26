@@ -39,7 +39,12 @@ Ensembling_GRU_LSTM.ipynb
 
 In both the Final_LSTM.ipynb and Final_GRU.ipynb notebook, all the necessary single models are compiled and trained. A total of 12 models (6 GRU and 6 LSTM models) were compiled an trained as the ensembles contain 6 models. These models are saved in a single .h5 file, including the model's architecture, weights, and training configurations.
 
-The last three notebooks show the evaluation results of the single models and ensemble models based from the previous two notebooks. Metrics included are the accuracy, precison, recall, F1 and AUC.
+The last three notebooks show the evaluation results of the single models and ensemble models based from the previous two notebooks. Ensembling_LSTM.ipynb shows the results of the single LSTM models and the ensemble of LSTM models and the same applies for Ensembling_GRU.ipynb but then for the GRU models.
+Lastly, is the Ensembling_GRU_LSTM.ipynb which only contain the results of the ensemble of GRU and LSTM models.
+
+Metrics included are the accuracy, precison, recall, F1 and AUC.
+
+**As the models compiled and trained in Final_LSTM.ipynb and Final_GRU.ipynb. were saved already, these two notebooks do not have to be run again in order to run the last three notebooks as the .h5 files are located in the zip file**
 
 ## References
 Reyna, Matthew A, Christopher S Josef, Russell Jeter, Supreeth P Shashikumar, M BrandonWestover, Shamim Nemati, Gari D Clifford, and Ashish Sharma. 2019. Early prediction ofsepsis from clinical data: the physionet/computing in cardiology challenge 2019.Critical CareMedicine
