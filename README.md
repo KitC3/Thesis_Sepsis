@@ -29,16 +29,5 @@ Ensembling_GRU.ipynb
 Ensembling_GRU_LSTM.ipynb
 ```
 
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-
 ## References
 Reyna, Matthew A, Christopher S Josef, Russell Jeter, Supreeth P Shashikumar, M BrandonWestover, Shamim Nemati, Gari D Clifford, and Ashish Sharma. 2019. Early prediction ofsepsis from clinical data: the physionet/computing in cardiology challenge 2019.Critical CareMedicine
