@@ -9,7 +9,7 @@ The data is originally from the [PhysioNet Computing in Cardiology challenge 201
 
 The complete data for this repository can be found in this [zip](https://drive.google.com/file/d/1B7lgNuEwITl17Biud-pWKeXWv7zljaFM/view?usp=sharing) file located in my Google Drive.
 
-As Google Colaboratory was used for the entire project, I strongly recommend to use this platform as well when running the notebooks. Unzipping the zip file referenced above and putting this in your own drive should allow you to run all the notebooks of this project in the Google Colaboratory platform.
+As [Google Colaboratory](https://colab.research.google.com/notebooks) was used for the entire project, I strongly recommend to use this platform as well when running the notebooks. Unzipping the zip file referenced above and putting this in your own drive should allow you to run all the notebooks of this project in the Google Colaboratory platform.
 
 ## Libararies, Modules & Packages 
 
