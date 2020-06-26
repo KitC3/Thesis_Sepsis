@@ -28,6 +28,8 @@ Pylab
 
 ## Notebooks
 
+The notebooks all follow the same structure, first loading all the necessary python libraries or packages, then connecting your Google Drive to access the neccesary files such as the dataset or the saved models. Following that are the self made functions used in the project, lastly is the code itself. Each cell is accomponied with a description on what is happening when running the code.
+
 There are a total of 6 notebooks in this repository which can be categorised in two sections:
 
 #### Data Visualization and Preprocessing
