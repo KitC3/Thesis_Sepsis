@@ -7,7 +7,7 @@ This is private repository for my thesis project. It containts the Jupyter Noteb
 ## Data
 The data is originally from the [PhysioNet Computing in Cardiology challenge 2019](https://physionet.org/content/challenge-2019/1.0.0/#challenge-data) by Reyna  et  al. (2019).
 
-The complete data for this repository can be found in this [zip](https://drive.google.com/file/d/1B7lgNuEwITl17Biud-pWKeXWv7zljaFM/view?usp=sharing) file located in my Google Drive, because GitHub prevent users from uploading large files.
+The complete data for this repository can be found in this [zip](https://drive.google.com/file/d/1B7lgNuEwITl17Biud-pWKeXWv7zljaFM/view?usp=sharing) file located in my Google Drive, because GitHub prevents users from uploading large files (I did not find a solution for hence the Google Drive link).
 
 As [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb#) was used for the entire project, I strongly recommend to use this platform as well when running the notebooks. Unzipping the zip file referenced above and putting this in your own drive should allow you to run all the notebooks of this project in the Google Colaboratory platform.
 
