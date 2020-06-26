@@ -13,7 +13,7 @@ The complete data for this repository can be found in this [zip](https://drive.g
 
 There are a total of 6 notebooks in this repository which can be categorised in two sections:
 
-#### Data Visualization and Preprocesing
+#### Data Visualization and Preprocessing
 ```bash
 Sepsis Data Analysis.ipynb
 
