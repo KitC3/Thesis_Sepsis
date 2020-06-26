@@ -35,10 +35,7 @@ Final_Evaluation.ipnyb
 
 In both the Final_LSTM.ipynb and Final_GRU.ipynb notebook, all the necessary single models are compiled and trained. A total of 12 models (6 GRU and 6 LSTM models) were compiled an trained as the ensembles contain 6 models. These models are saved in a single .h5 file, including the model's architecture, weights, and training configurations.
 
-The last three notebooks show the evaluation results of the single models and ensemble models based from the previous two notebooks. Ensembling_LSTM.ipynb shows the results of the single LSTM models and the ensemble of LSTM models and the same applies for Ensembling_GRU.ipynb but then for the GRU models.
-Lastly, is the Ensembling_GRU_LSTM.ipynb which only contain the results of the ensemble of GRU and LSTM models.
-
-Metrics included are the accuracy, precison, recall, F1 and AUC.
+The last notebook shows the evaluation results of the single models and ensemble models based from the previous two notebooks. Metrics used for evaluation include the accuracy, precison, recall, F1 and AUC. Additionaly an AUROC (Area Under The Curve Receiver Operating Characteristics curve) is also visualized for the three ensembles, best single LSTM and single GRU models.
 
 **As the models compiled and trained in Final_LSTM.ipynb and Final_GRU.ipynb. were saved already, these two notebooks do not have to be run again in order to run the last three notebooks as the .h5 files are located in the zip file**
 
