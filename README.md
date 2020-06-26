@@ -21,6 +21,12 @@ Sepsis Preprocessing - Undersampling and Padding.ipynb
 Sepsis Preprocessing - Missing Values.ipynb
 ```
 
+The Sepsis Data Analysis.ipynb notebook contains the analysis of the dataset. Including the class distributions and the amount of missing data per variable.
+
+The other two notebooks contain all the preprocessing steps that were done before using the data for training. In Sepsis Preprocessing - Missing Values.ipynb, the missing values in each variable are replaced/filled with "0" values. 
+
+In Sepsis Preprocessing - Undersampling and Padding.ipynb, undersampling is performed on the dataset and as each time-series has a variable amount of time-steps padding is also performed.
+
 #### Training models and Evaluating
 ```bash
 Final_LSTM.ipynb
@@ -30,6 +36,10 @@ Ensembling_LSTM.ipynb
 Ensembling_GRU.ipynb
 Ensembling_GRU_LSTM.ipynb
 ```
+
+In both the Final_LSTM.ipynb and Final_GRU.ipynb notebook, all the necessary single models are compiled and trained. These models are then saved including the model's architecture, weights, and training configurations each in a single .h5 file.
+
+The last three notebooks show the evaluation results of the single and ensemble models based from the previous two notebooks. Metrics included are the accuracy, precison, recall, F1 and AUC.
 
 ## References
 Reyna, Matthew A, Christopher S Josef, Russell Jeter, Supreeth P Shashikumar, M BrandonWestover, Shamim Nemati, Gari D Clifford, and Ashish Sharma. 2019. Early prediction ofsepsis from clinical data: the physionet/computing in cardiology challenge 2019.Critical CareMedicine
