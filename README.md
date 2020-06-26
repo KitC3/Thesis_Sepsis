@@ -2,7 +2,7 @@
 
 Project Tilburg University
 
-This is private repository for my thesis project. It containts the Jupyter Notebook's which were used for the project. These contain the data visualizations, the pre-processing of the data, the machine learning models and their results.
+This is a private repository for my thesis project. It containts the Jupyter Notebook's which were used for the project. These contain the data visualizations, the pre-processing of the data, the machine learning models and their results.
 
 ## Data
 The data is originally from the [PhysioNet Computing in Cardiology challenge 2019](https://physionet.org/content/challenge-2019/1.0.0/#challenge-data) by Reyna  et  al. (2019).
