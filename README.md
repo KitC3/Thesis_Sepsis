@@ -23,9 +23,7 @@ Sepsis Preprocessing - Missing Values.ipynb
 
 The Sepsis Data Analysis.ipynb notebook contains the analysis of the dataset. Including the class distributions and the amount of missing data per variable.
 
-The other two notebooks contain all the preprocessing steps that were done before using the data for training. In Sepsis Preprocessing - Missing Values.ipynb, the missing values in each variable are replaced/filled with "0" values. 
-
-In Sepsis Preprocessing - Undersampling and Padding.ipynb, undersampling is performed on the dataset and as each time-series has a variable amount of time-steps padding is also performed.
+The other two notebooks contain all the preprocessing steps that were done before using the data for training. In Sepsis Preprocessing - Missing Values.ipynb, the missing values in each variable are replaced/filled with "0" values. In Sepsis Preprocessing - Undersampling and Padding.ipynb, undersampling is performed on the dataset and as each time-series has a variable amount of time-steps padding is also performed.
 
 #### Training models and Evaluating
 ```bash
