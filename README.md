@@ -11,9 +11,9 @@ The complete data for this repository can be found in this [zip](https://drive.g
 
 As Google Colaboratory was used for the entire project, I strongly recommend to use this platform as well when running the notebooks. Unzipping the zip file referenced above and putting this in your own drive should allow you to run all the notebooks of this project in the Google Colaboratory platform.
 
-## Libararies & Packages
+## Libararies, Modules & Packages 
 
-The following packages, modules and libararies are used in this project:
+The following libararies, modules and packages are used in this project:
 ```bash
 Numpy
 Keras
