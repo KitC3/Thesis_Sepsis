@@ -11,7 +11,7 @@ The complete data for this repository can be found in this [zip](https://drive.g
 
 ## Notebooks
 
-There are a total of 8 notebooks in this repository which can be categorised in two sections:
+There are a total of 6 notebooks in this repository which can be categorised in two sections:
 
 #### Data Visualization and Preprocesing
 ```bash
@@ -30,9 +30,7 @@ The other two notebooks contain all the preprocessing steps that were done befor
 Final_LSTM.ipynb
 Final_GRU.ipynb
 
-Ensembling_LSTM.ipynb
-Ensembling_GRU.ipynb
-Ensembling_GRU_LSTM.ipynb
+Final_Evaluation.ipnyb
 ```
 
 In both the Final_LSTM.ipynb and Final_GRU.ipynb notebook, all the necessary single models are compiled and trained. A total of 12 models (6 GRU and 6 LSTM models) were compiled an trained as the ensembles contain 6 models. These models are saved in a single .h5 file, including the model's architecture, weights, and training configurations.
