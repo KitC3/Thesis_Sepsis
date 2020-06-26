@@ -54,7 +54,7 @@ In both the Final_LSTM.ipynb and Final_GRU.ipynb notebook, all the necessary sin
 
 The last notebook shows the evaluation results of the single models and ensemble models based from the previous two notebooks. Metrics used for evaluation include the accuracy, precison, recall, F1 and AUC. Additionaly an AUROC (Area Under The Curve Receiver Operating Characteristics curve) is also visualized for the three ensembles, best single LSTM and single GRU models.
 
-**As the models compiled and trained in Final_LSTM.ipynb and Final_GRU.ipynb. were saved already, these two notebooks do not have to be run again in order to run the last three notebooks as the .h5 files are located in the zip file**
+**As the models compiled and trained in Final_LSTM.ipynb and Final_GRU.ipynb. were saved already, these two notebooks do not have to be run again in order to run the last notebook as the .h5 files are located in the zip file**
 
 ## References
 Reyna, Matthew A, Christopher S Josef, Russell Jeter, Supreeth P Shashikumar, M BrandonWestover, Shamim Nemati, Gari D Clifford, and Ashish Sharma. 2019. Early prediction ofsepsis from clinical data: the physionet/computing in cardiology challenge 2019.Critical CareMedicine
