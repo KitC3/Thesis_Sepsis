@@ -1,11 +1,13 @@
-# Predicting Sepsis Using An EnsembleOf Gated Recurrent Units And Long Short Term Memory Models
+# Predicting Sepsis Using An Ensemble Of Gated Recurrent Units And Long Short Term Memory Models
 
 Project Tilburg University
 
 This is private repository for my thesis project. It containts the Jupyter Notebook's which were used for the project. These contain the data visualizations, the pre-processing of the data, the machine learning models and their results.
 
 ## Data
-The data is originally from the PhysioNet Computing in Cardiology Challenge 2019 by Reyna  et  al. (2019). 
+The data is originally from the [PhysioNet Computing in Cardiology challenge 2019](https://physionet.org/content/challenge-2019/1.0.0/#challenge-data) by Reyna  et  al. (2019).
+
+The complete data for this repository can be found in this [zip](https://drive.google.com/file/d/1B7lgNuEwITl17Biud-pWKeXWv7zljaFM/view?usp=sharing) file located in my Google Drive.
 
 ## Notebooks
 
